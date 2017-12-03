@@ -1,0 +1,14 @@
+{
+    "name": "pebble-calendar",
+    "description": "Node.js App for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "engines": {
+        "node": ">=6.9.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
